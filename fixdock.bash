@@ -6,5 +6,6 @@ defaults write com.apple.dock pinning -string end
 defaults write com.apple.dock orientation -string left
 defaults write com.apple.dock tilesize -int 23
 defaults write com.apple.dock autohide -bool YES
+defaults write com.apple.dock use-new-list-stack -bool YES
 
 killall Dock
