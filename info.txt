@@ -1,0 +1,5 @@
+./fixdock.bash
+	Adjusts OS X Dock size and position
+
+./restoredock.bash
+	Restores Dock to original settings
