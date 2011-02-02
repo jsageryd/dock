@@ -8,4 +8,7 @@ defaults write com.apple.dock tilesize -int 23
 defaults write com.apple.dock use-new-list-stack -bool YES
 defaults write com.apple.dock mouse-over-hilite-stack -boolean YES
 
+# Turn off swoosh
+defaults write com.apple.dock workspaces-swoosh-animation-off -bool YES
+
 killall Dock
