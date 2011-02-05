@@ -1,8 +1,7 @@
 Dock fix
 ===================
 
-- Get the OS X Dock out of the way
-- Turn off the swoosh animation in spaces
+This gets the Dock in OS X out of the way.
 
 
 Usage
