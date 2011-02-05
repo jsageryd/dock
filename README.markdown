@@ -1,7 +1,7 @@
 Dock fix
 ===================
 
-This gets the Dock in OS X out of the way.
+- Get the OS X Dock out of the way
 
 
 Usage
