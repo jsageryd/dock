@@ -1,7 +1,8 @@
-Dock fix
+Dock and font fix
 ===================
 
 - Get the OS X Dock out of the way
+- Restore proper font smoothing for Japanese fonts
 
 
 Usage
